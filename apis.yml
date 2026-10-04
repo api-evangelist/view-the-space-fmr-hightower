@@ -43,7 +43,7 @@ tags:
 - Company
 - Vertical Software
 - Commercial Real Estate
-- Real-Estate
+- Real Estate
 - PropTech
 - Leasing
 - Asset Management
@@ -57,6 +57,7 @@ tags_raw:
 - Leasing
 - Asset Management
 - SaaS
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
